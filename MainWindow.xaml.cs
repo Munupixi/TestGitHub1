@@ -8,9 +8,5 @@ namespace TestGitHub1
         {
             InitializeComponent();
         }
-        private void Er(string name)
-        {
-            System.Console.WriteLine("Hello");
-        }
     }
 }
