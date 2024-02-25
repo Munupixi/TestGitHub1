@@ -7,6 +7,8 @@ namespace TestGitHub1
         public MainWindow()
         {
             InitializeComponent();
+            System.Console.WriteLine("ewerg");
         }
+        
     }
 }
